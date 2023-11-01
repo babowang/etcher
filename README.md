@@ -108,6 +108,8 @@ choco uninstall etcher
 If you're having any problem, please [raise an issue][newissue] on GitHub, and
 the balena.io team will be happy to help.
 
+test my edit
+
 ## License
 
 Etcher is free software and may be redistributed under the terms specified in
